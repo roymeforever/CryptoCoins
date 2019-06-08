@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestCoinPrice", "BestCoinPrice\BestCoinPrice.csproj", "{FB2822DA-6A26-4A92-A595-957EF228D285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateCoinMargin", "CalculateCoinMargin\CalculateCoinMargin.csproj", "{54C487B1-215F-4F29-9AD9-E2A711C11B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2822DA-6A26-4A92-A595-957EF228D285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2822DA-6A26-4A92-A595-957EF228D285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2822DA-6A26-4A92-A595-957EF228D285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2822DA-6A26-4A92-A595-957EF228D285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C487B1-215F-4F29-9AD9-E2A711C11B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C487B1-215F-4F29-9AD9-E2A711C11B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C487B1-215F-4F29-9AD9-E2A711C11B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C487B1-215F-4F29-9AD9-E2A711C11B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4B763E-468E-43EF-B8AB-9B1B289DC732}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://actewagl.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BestCoinPrice\\BestCoinPrice.csproj
+		SccProjectName1 = BestCoinPrice
+		SccLocalPath1 = BestCoinPrice
+		SccProjectUniqueName2 = CalculateCoinMargin\\CalculateCoinMargin.csproj
+		SccProjectName2 = CalculateCoinMargin
+		SccLocalPath2 = CalculateCoinMargin
+	EndGlobalSection
+EndGlobal
